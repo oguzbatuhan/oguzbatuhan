@@ -1,6 +1,6 @@
-# Oğuz Batuhan 🌟
+# Hi there 👋, I'm Oğuz Batuhan
 
-🌐 **Hello, I'm Oğuz Batuhan!** I'm a computer programming student who views coding as an art form. I am constantly learning and exploring to open new horizons on my programming journey.
+🌐 **I'm a computer programming student who views coding as an art form.** I am constantly learning and exploring to open new horizons on my programming journey.
 
 ## 🚀 Skills
 
@@ -19,18 +19,3 @@ I've always approached programming with a passion. Developing new projects and f
 - **LinkedIn**: [My Profile](https://www.linkedin.com/in/o%C4%9Fuz-batuhan-%C3%A7%C3%B6zeli-4b2771294/)
 
 If you want to collaborate on a project or just have a chat, feel free to reach out! Let's code together! 💻✨
-
-<!--
-**oguzbatuhan/oguzbatuhan** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-
-Here are some ideas to get you started:
-
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
